@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hiteshathwal88-sys/React-Projects/static/css/main.f855e6bc.css",
+    "main.js": "/hiteshathwal88-sys/React-Projects/static/js/main.3f1da85c.js",
+    "static/js/453.f35b1f7b.chunk.js": "/hiteshathwal88-sys/React-Projects/static/js/453.f35b1f7b.chunk.js",
+    "static/media/Land Rover Defender Front Caricos.jpg": "/hiteshathwal88-sys/React-Projects/static/media/Land Rover Defender Front Caricos.0b17a685d5c4d0f3f992.jpg",
+    "index.html": "/hiteshathwal88-sys/React-Projects/index.html",
+    "main.f855e6bc.css.map": "/hiteshathwal88-sys/React-Projects/static/css/main.f855e6bc.css.map",
+    "main.3f1da85c.js.map": "/hiteshathwal88-sys/React-Projects/static/js/main.3f1da85c.js.map",
+    "453.f35b1f7b.chunk.js.map": "/hiteshathwal88-sys/React-Projects/static/js/453.f35b1f7b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.3f1da85c.js"
+  ]
+}
